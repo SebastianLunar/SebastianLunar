@@ -14,7 +14,7 @@ About Me:
 - 📫 How to reach me: selunar@outlook.com
 
 
-## Tech & Tools I Usually Use
+## Tech & Tools I Usually Work with
 
 <div align="center">
 
